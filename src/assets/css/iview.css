@@ -1,0 +1,19 @@
+#btn{
+  display:block;
+  margin:20px auto 0;
+  width:220px;
+  letter-spacing: 8px;
+}
+#btn span{
+    display:block;
+    width: 80px;
+    margin: 0 auto;
+  }
+.input{
+  width: 220px;
+  display:block;
+  margin:100px auto 20px;
+}
+.input2{
+  margin-top:10px;
+}
