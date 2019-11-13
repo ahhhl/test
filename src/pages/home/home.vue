@@ -18,7 +18,7 @@
         <img src="https://aecpm.alicdn.com/simba/img/TB1JNHwKFXXXXafXVXXSutbFXXX.jpg" alt="">
       </van-swipe-item>
     </van-swipe>
-    <van-notice-bar text="通知内容" left-icon="volume-o"/>
+    <van-notice-bar class="notice" text="通知内容的设计费肯定是浪费德生科技奋达科技发动机复健科是大家" left-icon="volume-o"/>
   </div>
 </template>
 
@@ -72,6 +72,9 @@ export default {};
         height: 100%;
       }
     }
+  }
+  .notice{
+    margin-top: 10px;
   }
 }
 </style>
